@@ -1,0 +1,1 @@
+console.log("Não é possível trocar o while pelo for nesta questão")
